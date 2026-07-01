@@ -1,6 +1,0 @@
-class MainActivity : AppCompatActivity() { 
-    override fun onCreate(savedInstanceStates: Bundles?){
-        super.onCreate(savedInstanceStates)
-        setContentView(R.layout.activity_main) // relie le XML à l'Activity
-    }
-}
